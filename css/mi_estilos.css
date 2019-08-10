@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+.logo_latam {
+    width: 185px;
+}
+
+header.masthead .intro-text .intro-heading {
+    font-size: 25px;
+}
+
+@media (min-width: 768px){
+	header.masthead .intro-text {
+	    padding-top: 220px;
+	    padding-bottom: 200px;
+	}
+}
+
+#mainNav .navbar-toggler {
+    background-color: #bfbfbf;
+}
+
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #02448c !important;
+  border-color: #02448c !important;
+  color: white;
+}
+
+.main-div-buttons{
+	margin-bottom: 25px;
+}
+
+header.masthead {
+    background-image: url(../img/slider/0.jpeg);
+}
+
+a {
+    color: #007bff;
+}
+
+#response-api{
+	margin-top: 15px;
+}
+
+.footer{
+	background: #000;
+    color: #FFF;
+}
+
+#people-id{
+	width: 500px;
+    margin-bottom: -100px;
+}
